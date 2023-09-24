@@ -1,7 +1,7 @@
 {
-    "url": "https://raw.githubusercontent.com/sandrogarcia/x89/test/test.yaml",
+    "url": "https://raw.githubusercontent.com/sandrogarcia/x89/main/test/test.yaml",
     "urls": [{
-        "url": "https://raw.githubusercontent.com/sandrogarcia/x89/test/test.yaml",
+        "url": "https://raw.githubusercontent.com/sandrogarcia/x89/main/test/test.yaml",
         "name": "SGT_"
     }]
 }
